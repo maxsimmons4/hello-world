@@ -7,6 +7,4 @@ I am a third year at the University of Iowa studying finance and business alayti
 * *This is a simple **Hello-World** program demonstrating the basic functionality of printing text to the console. It serves as an introductory project for beginners learning a new programming language.* *
 
 ## **Additional Documentation**
-~~~~	Documentation~~~~	
-1. **Clone the repository:**
-   ```bash
+None required
